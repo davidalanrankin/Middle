@@ -1,6 +1,6 @@
 # My project name is 
 
-additiona text here to say how great my software is for doing research.  Please contribut. 
+additional text here to say how great my software is for doing research.  Please contribute. 
 
 another paragraph
 
